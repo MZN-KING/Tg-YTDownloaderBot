@@ -1,0 +1,20 @@
+{
+  "name": "Tg-YTDownloaderBot",
+  "description": "YouTube Video Downloader Bot for Telegram. ",
+	"stack": "container",
+  "repository": "https://github.com/MZN-KING/Tg-YTDownloaderBot",
+  "keywords": [
+  "python", 
+  "chatbot", 
+  "telegrambot"
+  ],
+  "website": "https://github.com/MZN-KING/Tg-YTDownloaderBot",
+  "success_url": "https://t.me/MZN_MusicDownloaderBot",
+  "env": {
+    "TOKEN": {
+      "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
+      "value": "",
+      "required": true
+    }
+  }
+}
